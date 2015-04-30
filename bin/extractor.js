@@ -26,7 +26,9 @@ function parseEvent (arr, day) {
 	    event.begin = moment(util.format('%d-%d-%d %d:%d:00', year, month, day, bh, bm)).format();
 	    event.end = moment(util.format('%d-%d-%d %d:%d:00', year, month, day, eh, em)).format();
 	} else if (str.match(/【(.+)】/g)) {
-	    event.title = RegExp.$1.trim();
+	    if (!event.title) {
+		event.title = RegExp.$1.trim();
+	    }
 	} else if (str === 'br' || str.trim() === '') {
 	    return;
 	} else {
