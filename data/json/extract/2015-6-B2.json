@@ -1,0 +1,1243 @@
+[
+  {
+    "day": "1",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/ami.jpg\" border=\"0\"",
+          "石井亜美先生",
+          "カチコチの日本語アクセントは卒業!",
+          "ネイティブ発音で洋楽を歌えるようになろう♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "課題曲：Fly Me To The Moon",
+          "img src=\"./reservebutton.cgi?no=5848&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-01T19:00:00+09:00",
+        "end": "2015-06-01T20:30:00+09:00",
+        "title": "ボーカルレッスン初級"
+      },
+      {
+        "desc": [
+          "石井亜美先生",
+          "初級よりも英語難易度の高い曲に挑戦♪",
+          "中級からの参加も、もちろん歓迎♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "課題曲：My Favorite Things",
+          "img src=\"./reservebutton.cgi?no=5874&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-01T20:30:00+09:00",
+        "end": "2015-06-01T22:00:00+09:00",
+        "title": "ボーカルレッスン中級"
+      }
+    ]
+  },
+  {
+    "day": "2",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "歌もの中心のR&amp;Bのレッスンです。",
+          "女性ボーカリストが参加しやすいおしゃれなレッスン。",
+          "素敵なボーカリストのバッキングをしてみましょう。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5900&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-02T19:00:00+09:00",
+        "end": "2015-06-02T20:30:00+09:00",
+        "title": "はじめてR&amp;B"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "初級を卒業したら、さらに磨きをかけます。",
+          "素敵なボーカリストが魅力的に歌う。そしてそのバッキングをする。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5952&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-02T20:30:00+09:00",
+        "end": "2015-06-02T22:00:00+09:00",
+        "title": "超初心者R&amp;B"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5978&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-02T22:00:00+09:00",
+        "end": "2015-06-02T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "3",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "ニューヨーク級のグルーブ感を身につけます。",
+          "エリカ・バドゥやディアンジェロのようなサウンドを目指します。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6005&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-03T19:00:00+09:00",
+        "end": "2015-06-03T20:30:00+09:00",
+        "title": "はじめてNeo SOUL"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "はじめてを卒業したら、さらにグルーブに磨きをかけます。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6030&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-03T20:30:00+09:00",
+        "end": "2015-06-03T22:00:00+09:00",
+        "title": "超初心者Neo SOUL"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6055&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-03T22:00:00+09:00",
+        "end": "2015-06-03T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "4",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/img/steve5.jpg\" border=\"0\"",
+          "Steve先生",
+          "オーナーSteveがジャズの本場ニューヨークで体感したNew JAZZを指導します。",
+          "Coolなビートを取り入れたNew JAZZを演奏できるようになりましょう。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6353&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-04T19:00:00+09:00",
+        "end": "2015-06-04T20:30:00+09:00",
+        "title": "はじめてNew JAZZ"
+      },
+      {
+        "desc": [
+          "Steve先生",
+          "はじめてNew JAZZをクリアしたら、さらにステップアップします。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6362&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-04T20:30:00+09:00",
+        "end": "2015-06-04T22:00:00+09:00",
+        "title": "超初心者New JAZZ"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6371&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-04T22:00:00+09:00",
+        "end": "2015-06-04T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "5",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://miles.sakura.ne.jp/img/63841.png\" border=\"0\"",
+          "宮脇俊郎(g)",
+          "宮下智(b)",
+          "セッション初心者〜プロフェッショナルまで大歓迎。演りたい曲を選んで下さい。そして一緒にセッションを楽しみましょう！ワンコード一発やスリー・コードもちろんOKです。歌いたい曲がある人は譜面を持参してください。",
+          "Cissy Strut",
+          "The Chicken",
+          "Cantaloupe Island",
+          "Spain",
+          "Chameleon",
+          "Isn't She Lovely",
+          "Superstition",
+          "What's Goin' On",
+          "参加：チャージ：2,160円",
+          "◆1ドリンク付",
+          "見学：チャージ：1,080円",
+          "◆1ドリンク付",
+          "img src=\"./reservebutton.cgi?no=6326&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-05T19:00:00+09:00",
+        "end": "2015-06-05T23:00:00+09:00",
+        "title": "定番"
+      }
+    ]
+  },
+  {
+    "day": "6",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、Neo SOUL系レッスン",
+          "みんなの知ってる簡単な曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6133&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-06T14:00:00+09:00",
+        "end": "2015-06-06T15:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "はじめてをクリアしたら、さらにグルーブ感を身につけます。",
+          "img src=\"./reservebutton.cgi?no=6159&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-06T15:30:00+09:00",
+        "end": "2015-06-06T17:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6185&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-06T17:00:00+09:00",
+        "end": "2015-06-06T18:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6211&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-06T18:30:00+09:00",
+        "end": "2015-06-06T20:00:00+09:00",
+        "title": "初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6237&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-06T20:00:00+09:00",
+        "end": "2015-06-06T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "7",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/maegaki4.jpg\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、ネオ・ソウル系レッスン",
+          "簡単な課題曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5745&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-07T15:00:00+09:00",
+        "end": "2015-06-07T16:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "ワンステップアップしたレッスンをします。",
+          "さらに楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5771&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-07T16:30:00+09:00",
+        "end": "2015-06-07T18:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "さらにレッスンが楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5797&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-07T18:00:00+09:00",
+        "end": "2015-06-07T19:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/sundayjamparty.jpg\" border=\"0\"",
+          "日曜日の夜は、手料理、惣菜、一品持ちよりパーティー。",
+          "自己紹介のあとに楽しいジャムセッション。",
+          "チャージ：2,160円",
+          "(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5823&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-07T19:30:00+09:00",
+        "end": "2015-06-07T22:30:00+09:00",
+        "title": "サンデー・ジャムパーティー R&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "8",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/ami.jpg\" border=\"0\"",
+          "石井亜美先生",
+          "カチコチの日本語アクセントは卒業!",
+          "ネイティブ発音で洋楽を歌えるようになろう♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5849&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-08T19:00:00+09:00",
+        "end": "2015-06-08T20:30:00+09:00",
+        "title": "ボーカルレッスン初級"
+      },
+      {
+        "desc": [
+          "石井亜美先生",
+          "初級よりも英語難易度の高い曲に挑戦♪",
+          "中級からの参加も、もちろん歓迎♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5875&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-08T20:30:00+09:00",
+        "end": "2015-06-08T22:00:00+09:00",
+        "title": "ボーカルレッスン中級"
+      }
+    ]
+  },
+  {
+    "day": "9",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "歌もの中心のR&amp;Bのレッスンです。",
+          "女性ボーカリストが参加しやすいおしゃれなレッスン。",
+          "素敵なボーカリストのバッキングをしてみましょう。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5901&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-09T19:00:00+09:00",
+        "end": "2015-06-09T20:30:00+09:00",
+        "title": "はじめてR&amp;B"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "初級を卒業したら、さらに磨きをかけます。",
+          "素敵なボーカリストが魅力的に歌う。そしてそのバッキングをする。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5953&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-09T20:30:00+09:00",
+        "end": "2015-06-09T22:00:00+09:00",
+        "title": "超初心者R&amp;B"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5979&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-09T22:00:00+09:00",
+        "end": "2015-06-09T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "ニューヨーク級のグルーブ感を身につけます。",
+          "エリカ・バドゥやディアンジェロのようなサウンドを目指します。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6006&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-10T19:00:00+09:00",
+        "end": "2015-06-10T20:30:00+09:00",
+        "title": "はじめてNeo SOUL"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "はじめてを卒業したら、さらにグルーブに磨きをかけます。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6031&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-10T20:30:00+09:00",
+        "end": "2015-06-10T22:00:00+09:00",
+        "title": "超初心者Neo SOUL"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6056&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-10T22:00:00+09:00",
+        "end": "2015-06-10T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/img/steve5.jpg\" border=\"0\"",
+          "Steve先生",
+          "オーナーSteveがジャズの本場ニューヨークで体感したNew JAZZを指導します。",
+          "Coolなビートを取り入れたNew JAZZを演奏できるようになりましょう。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6354&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-11T19:00:00+09:00",
+        "end": "2015-06-11T20:30:00+09:00",
+        "title": "はじめてNew JAZZ"
+      },
+      {
+        "desc": [
+          "Steve先生",
+          "はじめてNew JAZZをクリアしたら、さらにステップアップします。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6363&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-11T20:30:00+09:00",
+        "end": "2015-06-11T22:00:00+09:00",
+        "title": "超初心者New JAZZ"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6372&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-11T22:00:00+09:00",
+        "end": "2015-06-11T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "上田浩司(dr)",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6082&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-12T19:30:00+09:00",
+        "end": "2015-06-12T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、Neo SOUL系レッスン",
+          "みんなの知ってる簡単な曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6134&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-13T14:00:00+09:00",
+        "end": "2015-06-13T15:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "はじめてをクリアしたら、さらにグルーブ感を身につけます。",
+          "img src=\"./reservebutton.cgi?no=6160&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-13T15:30:00+09:00",
+        "end": "2015-06-13T17:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6186&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-13T17:00:00+09:00",
+        "end": "2015-06-13T18:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6212&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-13T18:30:00+09:00",
+        "end": "2015-06-13T20:00:00+09:00",
+        "title": "初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6238&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-13T20:00:00+09:00",
+        "end": "2015-06-13T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "events": [
+      {
+        "desc": [],
+        "begin": "2015-06-14T13:00:00+09:00",
+        "end": "2015-06-14T19:00:00+09:00",
+        "title": "貸切　三大学合同イベント"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/sundayjamparty.jpg\" border=\"0\"",
+          "日曜日の夜は、手料理、惣菜、一品持ちよりパーティー。",
+          "自己紹介のあとに楽しいジャムセッション。",
+          "チャージ：2,160円",
+          "(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5824&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-14T19:30:00+09:00",
+        "end": "2015-06-14T22:30:00+09:00",
+        "title": "サンデー・ジャムパーティー R&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/ami.jpg\" border=\"0\"",
+          "石井亜美先生",
+          "カチコチの日本語アクセントは卒業!",
+          "ネイティブ発音で洋楽を歌えるようになろう♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5850&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-15T19:00:00+09:00",
+        "end": "2015-06-15T20:30:00+09:00",
+        "title": "ボーカルレッスン初級"
+      },
+      {
+        "desc": [
+          "石井亜美先生",
+          "初級よりも英語難易度の高い曲に挑戦♪",
+          "中級からの参加も、もちろん歓迎♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5876&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-15T20:30:00+09:00",
+        "end": "2015-06-15T22:00:00+09:00",
+        "title": "ボーカルレッスン中級"
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "歌もの中心のR&amp;Bのレッスンです。",
+          "女性ボーカリストが参加しやすいおしゃれなレッスン。",
+          "素敵なボーカリストのバッキングをしてみましょう。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5902&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-16T19:00:00+09:00",
+        "end": "2015-06-16T20:30:00+09:00",
+        "title": "はじめてR&amp;B"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "初級を卒業したら、さらに磨きをかけます。",
+          "素敵なボーカリストが魅力的に歌う。そしてそのバッキングをする。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5954&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-16T20:30:00+09:00",
+        "end": "2015-06-16T22:00:00+09:00",
+        "title": "超初心者R&amp;B"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5980&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-16T22:00:00+09:00",
+        "end": "2015-06-16T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "ニューヨーク級のグルーブ感を身につけます。",
+          "エリカ・バドゥやディアンジェロのようなサウンドを目指します。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6007&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-17T19:00:00+09:00",
+        "end": "2015-06-17T20:30:00+09:00",
+        "title": "はじめてNeo SOUL"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "はじめてを卒業したら、さらにグルーブに磨きをかけます。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6032&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-17T20:30:00+09:00",
+        "end": "2015-06-17T22:00:00+09:00",
+        "title": "超初心者Neo SOUL"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6057&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-17T22:00:00+09:00",
+        "end": "2015-06-17T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/img/steve5.jpg\" border=\"0\"",
+          "Steve先生",
+          "オーナーSteveがジャズの本場ニューヨークで体感したNew JAZZを指導します。",
+          "Coolなビートを取り入れたNew JAZZを演奏できるようになりましょう。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6355&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-18T19:00:00+09:00",
+        "end": "2015-06-18T20:30:00+09:00",
+        "title": "はじめてNew JAZZ"
+      },
+      {
+        "desc": [
+          "Steve先生",
+          "はじめてNew JAZZをクリアしたら、さらにステップアップします。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6364&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-18T20:30:00+09:00",
+        "end": "2015-06-18T22:00:00+09:00",
+        "title": "超初心者New JAZZ"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6373&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-18T22:00:00+09:00",
+        "end": "2015-06-18T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "上田浩司(dr)",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6083&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-19T19:30:00+09:00",
+        "end": "2015-06-19T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、Neo SOUL系レッスン",
+          "みんなの知ってる簡単な曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6135&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-20T14:00:00+09:00",
+        "end": "2015-06-20T15:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "はじめてをクリアしたら、さらにグルーブ感を身につけます。",
+          "img src=\"./reservebutton.cgi?no=6161&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-20T15:30:00+09:00",
+        "end": "2015-06-20T17:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6187&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-20T17:00:00+09:00",
+        "end": "2015-06-20T18:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6213&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-20T18:30:00+09:00",
+        "end": "2015-06-20T20:00:00+09:00",
+        "title": "初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6239&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-20T20:00:00+09:00",
+        "end": "2015-06-20T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/maegaki4.jpg\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、ネオ・ソウル系レッスン",
+          "簡単な課題曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5747&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-21T15:00:00+09:00",
+        "end": "2015-06-21T16:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "ワンステップアップしたレッスンをします。",
+          "さらに楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5773&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-21T16:30:00+09:00",
+        "end": "2015-06-21T18:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "さらにレッスンが楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5799&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-21T18:00:00+09:00",
+        "end": "2015-06-21T19:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/sundayjamparty.jpg\" border=\"0\"",
+          "日曜日の夜は、手料理、惣菜、一品持ちよりパーティー。",
+          "自己紹介のあとに楽しいジャムセッション。",
+          "チャージ：2,160円",
+          "(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5825&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-21T19:30:00+09:00",
+        "end": "2015-06-21T22:30:00+09:00",
+        "title": "サンデー・ジャムパーティー R&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/ami.jpg\" border=\"0\"",
+          "石井亜美先生",
+          "カチコチの日本語アクセントは卒業!",
+          "ネイティブ発音で洋楽を歌えるようになろう♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5851&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-22T19:00:00+09:00",
+        "end": "2015-06-22T20:30:00+09:00",
+        "title": "ボーカルレッスン初級"
+      },
+      {
+        "desc": [
+          "石井亜美先生",
+          "初級よりも英語難易度の高い曲に挑戦♪",
+          "中級からの参加も、もちろん歓迎♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5877&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-22T20:30:00+09:00",
+        "end": "2015-06-22T22:00:00+09:00",
+        "title": "ボーカルレッスン中級"
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "歌もの中心のR&amp;Bのレッスンです。",
+          "女性ボーカリストが参加しやすいおしゃれなレッスン。",
+          "素敵なボーカリストのバッキングをしてみましょう。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5903&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-23T19:00:00+09:00",
+        "end": "2015-06-23T20:30:00+09:00",
+        "title": "はじめてR&amp;B"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "初級を卒業したら、さらに磨きをかけます。",
+          "素敵なボーカリストが魅力的に歌う。そしてそのバッキングをする。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5955&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-23T20:30:00+09:00",
+        "end": "2015-06-23T22:00:00+09:00",
+        "title": "超初心者R&amp;B"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5981&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-23T22:00:00+09:00",
+        "end": "2015-06-23T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "ニューヨーク級のグルーブ感を身につけます。",
+          "エリカ・バドゥやディアンジェロのようなサウンドを目指します。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6008&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-24T19:00:00+09:00",
+        "end": "2015-06-24T20:30:00+09:00",
+        "title": "はじめてNeo SOUL"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "はじめてを卒業したら、さらにグルーブに磨きをかけます。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6033&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-24T20:30:00+09:00",
+        "end": "2015-06-24T22:00:00+09:00",
+        "title": "超初心者Neo SOUL"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6058&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-24T22:00:00+09:00",
+        "end": "2015-06-24T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/img/steve5.jpg\" border=\"0\"",
+          "Steve先生",
+          "オーナーSteveがジャズの本場ニューヨークで体感したNew JAZZを指導します。",
+          "Coolなビートを取り入れたNew JAZZを演奏できるようになりましょう。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6356&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-25T19:00:00+09:00",
+        "end": "2015-06-25T20:30:00+09:00",
+        "title": "はじめてNew JAZZ"
+      },
+      {
+        "desc": [
+          "Steve先生",
+          "はじめてNew JAZZをクリアしたら、さらにステップアップします。",
+          "チャージ：2,160円(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6365&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-25T20:30:00+09:00",
+        "end": "2015-06-25T22:00:00+09:00",
+        "title": "超初心者New JAZZ"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6374&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-25T22:00:00+09:00",
+        "end": "2015-06-25T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "上田浩司(dr)",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6084&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-26T19:30:00+09:00",
+        "end": "2015-06-26T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、Neo SOUL系レッスン",
+          "みんなの知ってる簡単な曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=6136&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-27T14:00:00+09:00",
+        "end": "2015-06-27T15:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "はじめてをクリアしたら、さらにグルーブ感を身につけます。",
+          "img src=\"./reservebutton.cgi?no=6162&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-27T15:30:00+09:00",
+        "end": "2015-06-27T17:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6188&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-27T17:00:00+09:00",
+        "end": "2015-06-27T18:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"./reservebutton.cgi?no=6214&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-27T18:30:00+09:00",
+        "end": "2015-06-27T20:00:00+09:00",
+        "title": "初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/black1.jpg\" border=\"0\"",
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6240&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-27T20:00:00+09:00",
+        "end": "2015-06-27T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/maegaki4.jpg\" border=\"0\"",
+          "前垣篤志先生",
+          "R&amp;B、ネオ・ソウル系レッスン",
+          "簡単な課題曲からはじめます。",
+          "楽器はじめたてでもOK!",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5748&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-28T15:00:00+09:00",
+        "end": "2015-06-28T16:30:00+09:00",
+        "title": "はじめてブラックミュージック"
+      },
+      {
+        "desc": [
+          "ワンステップアップしたレッスンをします。",
+          "さらに楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5774&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-28T16:30:00+09:00",
+        "end": "2015-06-28T18:00:00+09:00",
+        "title": "超超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "さらにレッスンが楽しくなりますよ。",
+          "img src=\"./reservebutton.cgi?no=5800&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-28T18:00:00+09:00",
+        "end": "2015-06-28T19:30:00+09:00",
+        "title": "超初心者ブラックミュージック"
+      },
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/sundayjamparty.jpg\" border=\"0\"",
+          "日曜日の夜は、手料理、惣菜、一品持ちよりパーティー。",
+          "自己紹介のあとに楽しいジャムセッション。",
+          "チャージ：2,160円",
+          "(学生半額)",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5826&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-28T19:30:00+09:00",
+        "end": "2015-06-28T22:30:00+09:00",
+        "title": "サンデー・ジャムパーティー R&amp;B"
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://somethinjazz.com/img/ami.jpg\" border=\"0\"",
+          "石井亜美先生",
+          "カチコチの日本語アクセントは卒業!",
+          "ネイティブ発音で洋楽を歌えるようになろう♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5852&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-29T19:00:00+09:00",
+        "end": "2015-06-29T20:30:00+09:00",
+        "title": "ボーカルレッスン初級"
+      },
+      {
+        "desc": [
+          "石井亜美先生",
+          "初級よりも英語難易度の高い曲に挑戦♪",
+          "中級からの参加も、もちろん歓迎♪",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5878&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-29T20:30:00+09:00",
+        "end": "2015-06-29T22:00:00+09:00",
+        "title": "ボーカルレッスン中級"
+      }
+    ]
+  },
+  {
+    "day": "30",
+    "events": [
+      {
+        "desc": [
+          "img src=\"http://www.somethinjazz.com/sp-tokyo2/img/maegaki.png\" border=\"0\"",
+          "前垣篤志先生",
+          "歌もの中心のR&amp;Bのレッスンです。",
+          "女性ボーカリストが参加しやすいおしゃれなレッスン。",
+          "素敵なボーカリストのバッキングをしてみましょう。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5904&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-30T19:00:00+09:00",
+        "end": "2015-06-30T20:30:00+09:00",
+        "title": "はじめてR&amp;B"
+      },
+      {
+        "desc": [
+          "ブラックミュージック系ジャムセッション！",
+          "レベルに関係なく誰でも参加できます。みんなでセッションを楽しみましょう！",
+          "チャージ：2,160円",
+          "◆フリードリンク付き",
+          "img src=\"./reservebutton.cgi?no=6242&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-30T20:00:00+09:00",
+        "end": "2015-06-30T23:00:00+09:00",
+        "title": "ジャムセッションR&amp;B"
+      },
+      {
+        "desc": [
+          "前垣篤志先生",
+          "初級を卒業したら、さらに磨きをかけます。",
+          "素敵なボーカリストが魅力的に歌う。そしてそのバッキングをする。",
+          "チャージ：2,160円",
+          "◆フリードリンク付",
+          "☆課題曲はコチラ",
+          "img src=\"./reservebutton.cgi?no=5956&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-30T20:30:00+09:00",
+        "end": "2015-06-30T22:00:00+09:00",
+        "title": "超初心者R&amp;B"
+      },
+      {
+        "desc": [
+          "レッスンで習ったことを実際にやってみます。",
+          "チャージ：1,080円",
+          "◆フリードリンク付",
+          "img src=\"./reservebutton.cgi?no=5982&floor=a&pat=lesson\" border=0"
+        ],
+        "begin": "2015-06-30T22:00:00+09:00",
+        "end": "2015-06-30T23:00:00+09:00",
+        "title": "軽いジャムセッション"
+      }
+    ]
+  }
+]
