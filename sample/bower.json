@@ -19,6 +19,8 @@
     "ajax-utils": "*",
     "jquery-mobile": "~1.4.5",
     "backbone": "~1.1.2",
-    "moment": "~2.10.2"
+    "moment": "~2.10.2",
+    "sprintf": "~1.0.2",
+    "jquery": "1.11.1"
   }
 }

@@ -2,8 +2,8 @@ var app = app || {};
 
 (function () {
 
-    function formatDate(begin, end) {
-	return moment(begin).format("HH:mm") + "-" + moment(end).format("HH:mm");;
+    function formatDate(date) {
+	return moment(date).format("HH:mm");
     }
 
     app.DailyView = Backbone.View.extend({
@@ -30,14 +30,29 @@ var app = app || {};
 		}
 	    ], function (err, results) {
 		var json = [];
-		console.log(results);
-		results[0].events.forEach(function (data) {
-		    var event = [formatDate(data.begin, data.end), data.title, 'B1'];
+		results[0].events.forEach(function (event) {
+		    event.floor = 'B1';
 		    json.push(event);
 		});
-		results[1].events.forEach(function (data) {
-		    var event = [formatDate(data.begin, data.end), data.title, 'B2'];
+		results[1].events.forEach(function (event) {
+		    event.floor = 'B2';
 		    json.push(event);
+		});
+		var prevPhoto;
+		json.forEach(function (data) {
+		    if (data.title.indexOf("セッション") != -1) {
+			data.photo = "http://miles.sakura.ne.jp/img/image.png";
+		    } else {
+			data.desc.forEach(function (str) {
+			    if (str.match(/img src=\"(.+)\" .+/g)) {
+				data.photo = RegExp.$1;
+				prevPhoto = data.photo;
+			    }
+			});
+		    }
+		    if (!data.photo) {
+			data.photo = prevPhoto;
+		    }
 		});
 		callback(err, json);
 	    });
@@ -46,23 +61,24 @@ var app = app || {};
 	render: function () {
 	    var that = this;
 	    that.$el.append('<p>Today\'s Schedule</p>');
-	    that.$el.append('<table id="daily_schedule"></table>');
-	    that.getData(1, function (err, json) {
+
+	    that.getData(1, function (err, events) {
+		var html;
 		if (err) {
 		    console.log(err);
 		}
-		$("#daily_schedule").dataTable({
-		    data: json,
-		    paging: false,
-		    ordering: false,
-		    info: false,
-		    search: false,
-		    "columns": [
-			{"title": "date"},
-			{"title": "name"},
-			{"title": "floor"}
-		    ]
+		html = '<ul data-role="listview" data-inset="true">';
+		events.forEach(function (event) {
+		    html += '<li>'
+		    html += sprintf('<a href="%s">', '#');
+		    html += sprintf('<img src="%s">', event.photo);
+		    html += sprintf('<h2>%s</h2>', event.title);
+		    html += sprintf('<p>%s %s-%s</p>', event.floor, formatDate(event.begin), formatDate(event.end));
+
+		    html += '</li>'
 		});
+		html += '</ul>';
+		that.$el.append(html).trigger('create');
 	    });
 	}
     });
