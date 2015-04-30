@@ -18,20 +18,26 @@ var app = app || {};
 	    async.parallel([
 		function (cb) {
 		    var params = {
-			url: sprintf("../data/json/extract/%d-%d-B1.json", year, Number(month))
+			url: sprintf("../data/json/extract/%d-%d-B1.json", year, Number(month)),
+			datatype: "json"
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
-			var json = JSON.parse(data);
-			cb(err, json[index]);
+			if (typeof data === 'string') {
+			    data = JSON.parse(data);
+			}
+			cb(err, data[index]);
 		    });
 		},
 		function (cb) {
 		    var params = {
-			url: sprintf("../data/json/extract/%d-%d-B2.json", year, Number(month))			
+			url: sprintf("../data/json/extract/%d-%d-B2.json", year, Number(month)),
+			datatype: "json"
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
-			var json = JSON.parse(data);
-			cb(err, json[index]);
+			if (typeof data === 'string') {
+			    data = JSON.parse(data);
+			}
+			cb(err, data[index]);
 		    });
 		}
 	    ], function (err, results) {
@@ -83,30 +89,18 @@ var app = app || {};
 	render: function () {
 	    var that = this;
 	    that.getData(function (err, events) {
-		var html;
+		var html, color;
 		if (err) {
 		    console.log(err);
 		}
 		html = '<ul data-role="listview" data-inset="true">';
-		/*
-		events.sort(function (a, b) {
-		    var da = new Date(a.begin).getTime(),
-			db = new Date(b.begin).getTime(),
-			ret = da - db;
-		    if (ret != 0) {
-			return ret;
-		    }
-		    da = new Date(a.end).getTime();
-		    db = new Date(b.end).getTime();
-		    return da - db;
-		});
-		*/
 		events.forEach(function (event) {
+		    color = event.floor === 'B1' ? 'BLUE' : 'RED';
 		    html += '<li>'
 		    html += sprintf('<a href="%s">', '#');
 		    html += sprintf('<img src="%s">', event.photo);
 		    html += sprintf('<h2>%s</h2>', event.title);
-		    html += sprintf('<p>%s %s-%s</p>', event.floor, formatDate(event.begin), formatDate(event.end));
+		    html += sprintf('<p><font color="%s">%s</font> %s-%s</p>',color,  event.floor, formatDate(event.begin), formatDate(event.end));
 
 		    html += '</li>'
 		});
