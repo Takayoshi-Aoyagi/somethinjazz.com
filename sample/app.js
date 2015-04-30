@@ -9,12 +9,16 @@ var app = app || {};
     app.DailyView = Backbone.View.extend({
 	el: '#daily',
 
-	getData: function (day, callback) {
-	    index = day -1;
+	getData: function (callback) {
+	    var ymd = this.date.split('/'),
+		year = ymd[0],
+		month = ymd[1],
+		day = ymd[2],
+		index = day -1;
 	    async.parallel([
 		function (cb) {
 		    var params = {
-			url: "../data/json/extract/2015-4-B1.json"
+			url: sprintf("../data/json/extract/%d-%d-B1.json", year, Number(month))
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
 			cb(err, data[index]);
@@ -22,7 +26,7 @@ var app = app || {};
 		},
 		function (cb) {
 		    var params = {
-			url: "../data/json/extract/2015-4-B2.json"
+			url: sprintf("../data/json/extract/%d-%d-B2.json", year, Number(month))			
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
 			cb(err, data[index]);
@@ -44,7 +48,7 @@ var app = app || {};
 			data.photo = "http://miles.sakura.ne.jp/img/image.png";
 		    } else {
 			data.desc.forEach(function (str) {
-			    if (str.match(/img src=\"(.+)\" .+/g)) {
+			    if (str.match(/img src=\"(http.+)\" .+/g)) {
 				data.photo = RegExp.$1;
 				prevPhoto = data.photo;
 			    }
@@ -57,12 +61,21 @@ var app = app || {};
 		callback(err, json);
 	    });
 	},
+
+	initialize: function () {
+	    var m = moment();
+	    $.datepicker.setDefaults($.datepicker.regional['ja']);
+	    $("#date_picker").datepicker();
+	    $("#date_picker").datepicker("option", "dateFormat", 'yy/mm/dd');
+	    $("#date_picker").datepicker("option", "onSelect", function (x) {
+		this.date = x;
+	    });
+	    this.date = sprintf('%s/%s/%s', m.year(), m.month() + 1, m.date());
+	},
 	
 	render: function () {
 	    var that = this;
-	    that.$el.append('<p>Today\'s Schedule</p>');
-
-	    that.getData(1, function (err, events) {
+	    that.getData(function (err, events) {
 		var html;
 		if (err) {
 		    console.log(err);

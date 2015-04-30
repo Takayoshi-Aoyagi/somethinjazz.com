@@ -6,10 +6,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <link type="text/css" rel="stylesheet"
+	    href="http://code.jquery.com/ui/1.10.3/themes/cupertino/jquery-ui.min.css" />
   </head>
   <body>
-    <div id="main"><div id="daily">
+    <div id="header">
+    </div>
+    <div id="main">
+      <div id="daily">
+	<!--<input id="date_picker" type="text" data-role="date" data-inline="true">-->
+	<div id="date_picker"></div>
+	<!--<p>本日のイベント</p>-->
       </div>
+    </div>
+    <div id="footer">
     </div>
     <script src="bower_components/sprintf/dist/sprintf.min.js"></script>
     <script src="bower_components/async/lib/async.js"></script>
@@ -18,6 +28,7 @@
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="bower_components/backbone/backbone.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
     <script src="bower_components/ajax-utils/ajax_utils.js"></script>
     <script src="./app.js"></script>
     <script>
