@@ -2,7 +2,6 @@ var fs = require('fs');
 var util = require('util');
 var htmlparser = require("htmlparser");
 
-
 var handler = new htmlparser.DefaultHandler(function (error, dom) {
     if (error) {
 	//[...do something for errors...]
@@ -20,7 +19,7 @@ for (year = 2007; year <= 2015; year++) {
 	    html = fs.readFileSync(util.format('../data/html/utf8/%d-%d-%s.html', year, month, floor));
 	    parser.parseComplete(html);
 	    json = JSON.stringify(handler.dom, null, 2);
-	    fs.writeFileSync(util.format('../data/json/%d-%d-%s.json', year, month, floor), json);
+	    fs.writeFileSync(util.format('../data/json/raw/%d-%d-%s.json', year, month, floor), json);
 	});
     }
 }	
