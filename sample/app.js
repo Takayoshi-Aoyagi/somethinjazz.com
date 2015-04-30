@@ -21,7 +21,8 @@ var app = app || {};
 			url: sprintf("../data/json/extract/%d-%d-B1.json", year, Number(month))
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
-			cb(err, data[index]);
+			var json = JSON.parse(data);
+			cb(err, json[index]);
 		    });
 		},
 		function (cb) {
@@ -29,7 +30,8 @@ var app = app || {};
 			url: sprintf("../data/json/extract/%d-%d-B2.json", year, Number(month))			
 		    };		
 		    AjaxUtils.get(params, function (err, data) {
-			cb(err, data[index]);
+			var json = JSON.parse(data);
+			cb(err, json[index]);
 		    });
 		}
 	    ], function (err, results) {
