@@ -56,6 +56,9 @@ var app = app || {};
 		    }
 		    if (!data.photo) {
 			data.photo = prevPhoto;
+			if (!data.photo) {
+			    data.photo = "http://www.somethinjazz.com/img/logo170.jpg"
+			}
 		    }
 		});
 		callback(err, json);
@@ -63,12 +66,14 @@ var app = app || {};
 	},
 
 	initialize: function () {
-	    var m = moment();
+	    var that = this,
+		m = moment();
 	    $.datepicker.setDefaults($.datepicker.regional['ja']);
 	    $("#date_picker").datepicker();
 	    $("#date_picker").datepicker("option", "dateFormat", 'yy/mm/dd');
 	    $("#date_picker").datepicker("option", "onSelect", function (x) {
-		this.date = x;
+		that.date = x;
+		that.render();
 	    });
 	    this.date = sprintf('%s/%s/%s', m.year(), m.month() + 1, m.date());
 	},
@@ -81,6 +86,17 @@ var app = app || {};
 		    console.log(err);
 		}
 		html = '<ul data-role="listview" data-inset="true">';
+		events.sort(function (a, b) {
+		    var da = new Date(a.begin).getTime(),
+			db = new Date(b.begin).getTime(),
+			ret = da - db;
+		    if (ret != 0) {
+			return ret;
+		    }
+		    da = new Date(a.end).getTime();
+		    db = new Date(b.end).getTime();
+		    return da - db;
+		});
 		events.forEach(function (event) {
 		    html += '<li>'
 		    html += sprintf('<a href="%s">', '#');
@@ -91,7 +107,7 @@ var app = app || {};
 		    html += '</li>'
 		});
 		html += '</ul>';
-		that.$el.append(html).trigger('create');
+		$("#daily_schedule").html(html).trigger('create');
 	    });
 	}
     });
