@@ -88,6 +88,7 @@ var app = app || {};
 		    console.log(err);
 		}
 		html = '<ul data-role="listview" data-inset="true">';
+		/*
 		events.sort(function (a, b) {
 		    var da = new Date(a.begin).getTime(),
 			db = new Date(b.begin).getTime(),
@@ -99,6 +100,7 @@ var app = app || {};
 		    db = new Date(b.end).getTime();
 		    return da - db;
 		});
+		*/
 		events.forEach(function (event) {
 		    html += '<li>'
 		    html += sprintf('<a href="%s">', '#');
