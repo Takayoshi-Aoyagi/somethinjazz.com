@@ -7,18 +7,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
     <link type="text/css" rel="stylesheet"
-	    href="http://code.jquery.com/ui/1.10.3/themes/cupertino/jquery-ui.min.css" />
+	  href="http://code.jquery.com/ui/1.10.3/themes/cupertino/jquery-ui.min.css" />
+    <style>
+      .ui-header .ui-title {
+      margin-left: 15%;
+      margin-right: 15%
+      }
+      #daily {
+      padding-left: 0px;
+      padding-right: 0px;
+      }
+      #tabs li {
+      font-size: 20%;
+      }
+   </style>
   </head>
   <body>
-    <div id="header">
+    <div id="header" data-role="header" data-position="fixed">
+      <h1>Somethin' Jazz Club</h1>
+      <div data-role="navbar" class="ui-navbar ui-navbar-noicons" role="navigation">
+	<ul>
+	  <li><a href="#daily" data-ajax="false" class="ui-btn-active">Daily</a></li>
+	  <li><a href="#lesson" data-ajax="false">Lesson</a></li>
+	  <li><a href="#live" data-ajax="false">Live</a></li>
+	  <li><a href="#special" data-ajax="false">Special</a></li>
+	</ul>
+      </div>
     </div>
     <div id="main">
-
       <div id="daily">
 	<!--<input id="date_picker" type="text" data-role="date" data-inline="true">-->
 	<div id="date_picker"></div>
 	<div id="daily_schedule"></div>
       </div>
+      <div id="lesson"></div>
+      <div id="live"></div>
+      <div id="special"></div>
     </div>
     <div id="footer">
     </div>

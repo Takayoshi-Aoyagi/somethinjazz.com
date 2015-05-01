@@ -101,7 +101,6 @@ var app = app || {};
 		    html += sprintf('<img src="%s">', event.photo);
 		    html += sprintf('<h2>%s</h2>', event.title);
 		    html += sprintf('<p><font color="%s">%s</font> %s-%s</p>',color,  event.floor, formatDate(event.begin), formatDate(event.end));
-
 		    html += '</li>'
 		});
 		html += '</ul>';
@@ -113,5 +112,9 @@ var app = app || {};
     app.init = function () {
 	var dailyView = new app.DailyView();
 	dailyView.render();
+
+	$(".ui-navbar li").click(function (x,y,z) {
+	    console.log(x);
+	});
     };
 }());
